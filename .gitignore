@@ -1,0 +1,23 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+repo/
+
+# Python
+*.pyc
+thrift-service/pom.xml
+thrift-service/server.log
+thrift-service/builds
